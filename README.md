@@ -1,1 +1,2 @@
-# My first repo for me Collaborting Remotely course
+
+# My first repo for my Collaborating Remotely course
